@@ -1,0 +1,23 @@
+{
+    "name": "atul-font-awesome",
+    "description": "The iconic font and CSS framework",
+    "version": "1.0.0",
+    "style": "css/all.min.css",
+    "keywords": [
+        "font",
+        "awesome",
+        "fontawesome",
+        "icon",
+        "font",
+        "atul22g",
+        "fontawesome6"
+    ],
+    "author": {
+        "name": "Atul22g",
+        "email": "atul22gcoders@gmail.com",
+        "web": "https://atul22g.netlify.app/"
+    },
+    "engines": {
+        "node": ">=22.14.0"
+    }
+}
