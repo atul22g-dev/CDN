@@ -6,7 +6,7 @@
 This for use with cdn:
 <br>
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Atugatran/FontAwesome6Pro@latest/css/all.min.css" >
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Atugatran/FontAwesome6Pro/css/all.min.css" >
  ```
 <br>
 
