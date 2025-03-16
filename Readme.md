@@ -12,19 +12,19 @@ To use any of the libraries, you can directly reference their URLs in your HTML 
 
 ### Tailwind CSS
 ```html
-<script src="https://cdn.jsdelivr.net/gh/atul22g/CDN@fa06f1a/liberies/tailwindcss%403.4.10/min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/atul22g/CDN@latest/liberies/tailwindcss%403.4.10/min.js"></script>
 ```
 
 ### QR Code Generator
 Visit [QR-Code-Generator](https://atul22g-qr-code-generator.netlify.app) to see this library in action.
 ```html
-<script src="https://cdn.jsdelivr.net/gh/atul22g/CDN@fa06f1a/liberies/QrCode%401.0.0/min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/atul22g/CDN@latest/liberies/QrCode%401.0.0/min.js"></script>
 ```
 
 ### Font Awesome Pro
 ```html
 <!-- Include CSS -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/atul22g/CDN@fa06f1a/liberies/FontAwesome6Pro@6.2.0/css/all.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/atul22g/CDN@latest/liberies/FontAwesome6Pro@6.2.0/css/all.min.css">
 ```
 
 ## Contribution and Maintenance

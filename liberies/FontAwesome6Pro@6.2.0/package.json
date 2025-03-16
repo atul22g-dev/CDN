@@ -1,7 +1,7 @@
 {
     "name": "fontawesome6pro",
     "description": "The iconic font and CSS framework",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "style": "css/all.min.css",
     "keywords": [
         "font",
