@@ -4,17 +4,17 @@
             {
                 "id": 1,
                 "name": "tailwindcss@3.4.10",
-                "src": "https://cdn.jsdelivr.net/gh/atul22g/CDN/liberies/tailwindcss%403.4.10/min.js"
+                "src": "https://cdn.jsdelivr.net/gh/atul22g/CDN@fa06f1a/liberies/tailwindcss%403.4.10/min.js?v=1.0.0"
             },
             {
                 "id": 2,
                 "name": "QrCode@1.0.0",
-                "src": "https://cdn.jsdelivr.net/gh/atul22g/CDN/liberies/QrCode%401.0.0/min.js"
+                "src": "https://cdn.jsdelivr.net/gh/atul22g/CDN@fa06f1a/liberies/QrCode%401.0.0/min.js?v=1.0.0"
             },
             {
                 "id": 3,
                 "name": "FontAwesome6Pro@6.2.0",
-                "src": "https://cdn.jsdelivr.net/gh/atul22g/CDN/liberies/QrCode%401.0.0/min.js"
+                "src": "https://cdn.jsdelivr.net/gh/atul22g/CDN@fa06f1a/liberies/QrCode%401.0.0/min.js?v=1.0.0"
             }
         ]
     }
