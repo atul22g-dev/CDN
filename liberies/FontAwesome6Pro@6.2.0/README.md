@@ -20,7 +20,7 @@ yarn add fontawesome6pro
 To quickly add FontAwesome to your project, you can use a CDN. Add the following line to your HTML file:
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/atul22g/CDN@latest/liberies/QrCode%401.0.0/min.js">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/atul22g/CDN@latest/liberies/FontAwesome6Pro@6.2.0/css/all.min.css">
 ```
 
 ## Usage
