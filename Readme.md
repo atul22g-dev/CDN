@@ -10,21 +10,27 @@ The CDN contains multiple libraries with different functionalities such as UI st
 
 To use any of the libraries, you can directly reference their URLs in your HTML files. Here are some examples:
 
-### Tailwind CSS
+### tailwindcss@3.4.10
 ```html
 <script src="https://cdn.jsdelivr.net/gh/atul22g/CDN@latest/liberies/tailwindcss%403.4.10/min.js"></script>
 ```
 
-### QR Code Generator
+### QrCode@1.0.0
 Visit [QR-Code-Generator](https://atul22g-qr-code-generator.netlify.app) to see this library in action.
 ```html
 <script src="https://cdn.jsdelivr.net/gh/atul22g/CDN@latest/liberies/QrCode%401.0.0/min.js"></script>
 ```
 
-### Font Awesome Pro
+### FontAwesome6Pro@6.2.0
 ```html
 <!-- Include CSS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/atul22g/CDN@latest/liberies/FontAwesome6Pro@6.2.0/css/all.min.css">
+```
+
+### FontAwesome6Pro
+```html
+<!-- Include CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/atul22g/CDN@latest/liberies/Fontawesome6Pro/css/all.min.css">
 ```
 
 ## Contribution and Maintenance

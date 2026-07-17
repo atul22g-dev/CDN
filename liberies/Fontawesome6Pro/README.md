@@ -1,7 +1,7 @@
 # FontAwesome 6 Pro
 
 ## Overview
-FontAwesome 6 Pro is a comprehensive icon library that provides a wide range of icons for use in web projects. This package gives you access to the premium Pro version with thousands of icons across multiple styles.
+FontAwesome 6 Pro 6.5.1 is a comprehensive icon library that provides a wide range of icons for use in web projects. This package gives you access to the premium Pro version with thousands of icons across multiple styles.
 
 ## Installation
 
